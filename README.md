@@ -1,4 +1,4 @@
-## 🛡️ Microsoft Sentinel & Defender XDR: Laboratório SOC Completo
+## 🛡️ Microsoft Sentinel & Defender XDR: Laboratório de Analista SOC
 
 Este repositório demonstra a utilização do Microsoft Sentinel e seus recursos integrados em um lab interativo. 
 
